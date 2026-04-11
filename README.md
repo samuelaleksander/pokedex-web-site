@@ -11,7 +11,7 @@
 <a href="fluxo-do-usuario.pdf" target="blank">Fluxo do usuario</a>
 
 ## Fluxo de navegação
-### Esquema demonstrando a navegação do usuário pelas telas do sistema, assim como funcionanlidades.
+### Esquema demonstrando a navegação do usuário pelas telas do sistema, assim como funcionalidades.
 <img src="fluxo-navegacao.jpeg" alt="Fluxo de navegacao">
 
 ### PDF
