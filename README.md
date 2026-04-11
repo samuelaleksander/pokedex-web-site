@@ -18,8 +18,11 @@
 <a href="fluxo-de-navegacao.pdf" target="blank">Fluxo de navegacao</a>
 
 ## Jornada do usuário
-### Diagrama representando a experiência do usuario ao longo da sua interação com a solução.
-<img src="" alt="Jornada do usuario">
+### Mapa representando a experiência do usuario ao longo da sua interação com a solução.
+<img src="jornada-usuario.jpeg" alt="Jornada do usuario">
+
+### PDF
+<a href="jornada-do-usuario.pdf" target="blank">Jornada do usuario</a>
 
 
 
