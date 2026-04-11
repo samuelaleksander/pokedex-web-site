@@ -6,9 +6,25 @@
 <img src="prototipos-alta-fidelidade.png" alt="prototipo-telas">
 <br>
 
-## Fluxo do usuário/navegação
+## Fluxo do usuário
 ### Diagrama representando as interações possiveis do usuário entre as diferentes telas e funcionalidades da solução.
-<a href="fluxo-usuario-pokedex.pdf.drawio.pdf" target="blank">Fluxo do usuario</a>
+<a href="fluxo-do-usuario.pdf" target="blank">Fluxo do usuario</a>
+
+## Fluxo de navegação
+### Esquema demonstrando a navegação do usuário peleas telas do sistema, assim como funcionanlidades.
+<img src="fluxo-navegacao.jpeg" alt="Fluxo de navegacao">
+
+### PDF
+<a href="fluxo-de-navegacao.pdf" target="blank"></a>
+
+## Jornada do usuário
+### Diagrama representando a experiência do usuario ao longo da sua interação com a solução.
+<img src="" alt="Jornada do usuario">
+
+
+
+
+
 
 
 
