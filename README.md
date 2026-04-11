@@ -1,2 +1,2 @@
-# pokedex-web-site
-Solução web para vizualização e salvamento de Pokémons.
+# Solução web usando html, css e java script para visualização
+
