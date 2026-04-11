@@ -15,7 +15,7 @@
 <img src="fluxo-navegacao.jpeg" alt="Fluxo de navegacao">
 
 ### PDF
-<a href="fluxo-de-navegacao.pdf" target="blank"></a>
+<a href="fluxo-de-navegacao.pdf" target="blank">Fluxo de navegacao</a>
 
 ## Jornada do usuário
 ### Diagrama representando a experiência do usuario ao longo da sua interação com a solução.
