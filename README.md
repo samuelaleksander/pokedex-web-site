@@ -8,21 +8,26 @@
 
 ## Fluxo do usuário
 ### Diagrama representando as interações possiveis do usuário entre as diferentes telas e funcionalidades da solução.
-<a href="fluxo-do-usuario.pdf" target="blank">Fluxo do usuario</a>
+<img src="fluxo-usuario.jpeg" alt="Fluxo do usuario">
+
+### PDF
+<a href="fluxo-do-usuario.pdf" target="_blank">Fluxo do usuario</a>
 
 ## Fluxo de navegação
 ### Esquema demonstrando a navegação do usuário pelas telas do sistema, assim como funcionalidades.
 <img src="fluxo-navegacao.jpeg" alt="Fluxo de navegacao">
 
 ### PDF
-<a href="fluxo-de-navegacao.pdf" target="blank">Fluxo de navegacao</a>
+<a href="fluxo-de-navegacao" target="_blank">Fluxo de navegacao</a>
 
 ## Jornada do usuário
 ### Mapa representando a experiência do usuario ao longo da sua interação com a solução.
 <img src="jornada-usuario.jpeg" alt="Jornada do usuario">
 
 ### PDF
-<a href="jornada-do-usuario.pdf" target="blank">Jornada do usuario</a>
+<a href="jornada-do-usuario.pdf" target="_blank">Jornada do usuario</a>
+
+
 
 
 
