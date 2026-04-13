@@ -27,7 +27,9 @@
 ### PDF
 <a href="jornada-do-usuario.pdf" target="_blank">Jornada do usuario</a>
 
-
+## Arquivo de objetos pokemon 
+### Este arquivo contém um array com os objetos referentes a cada pokemon, contendo nome e informações individuais de cada um.
+<a href="objetos-pokemon.js" target="_blank">Objetos</a>
 
 
 
